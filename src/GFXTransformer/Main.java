@@ -12,7 +12,7 @@ import javax.imageio.ImageIO;
 
 public class Main {
 
-	private static int MainKey=0x95F1A7B3;
+	private static int MainKey=182149108;
 	private static final int blockSize = 8;	
 	private static final int imageSize = 1024;
 	private static final int inLine=imageSize/blockSize;
